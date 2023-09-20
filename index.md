@@ -1,15 +1,12 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 
-# Brenda Sciepura 
+![Brenda Sciepura]("/Users/brenda/Downloads/brendapic.png")
 
-## Where I come from 
-### I'm from Argentina 
-knitr::include_url("https://www.worldatlas.com/maps/argentina")
+## Brenda Sciepura is a PhD student at the Goldman School of Public Policy at UC Berkeley. Her research interests involve exploring applications of behavioral science to improve how government recruits, motivates and retains public employees, as well as to improve resident access and persistence with government programs.
 
-## What I am doing at UC Berkeley 
-### I'm a PhD student in Public Policy at the Goldman School of Public Policy 
-![image](/Users/brenda/Desktop/UCB.png)
+## Brenda has over a decade of experience as program manager and researcher in the non-profit and government sector in Latin America. She holds and MPA from UC Berkeley and a BA in Political Science and International Relations from the Catholic University of Argentina.
 
-## What are my research interests? 
-### Admnistrative burden
-### Government workforce
-### Mental health
