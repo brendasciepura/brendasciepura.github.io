@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 
-![Brenda Sciepura]("/Users/brenda/Downloads/brendapic.png")
+![Brenda Sciepura]("brendapic.png")
 
 ## Brenda Sciepura is a PhD student at the Goldman School of Public Policy at UC Berkeley. Her research interests involve exploring applications of behavioral science to improve how government recruits, motivates and retains public employees, as well as to improve resident access and persistence with government programs.
 
